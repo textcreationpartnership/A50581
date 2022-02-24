@@ -1,0 +1,482 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoirs of the most remarkable enterprises and actions of James Duke of York, Albany, and Ulster</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50581</idno>
+            <idno type="STC">Wing M1672</idno>
+            <idno type="STC">ESTC R903</idno>
+            <idno type="EEBO-CITATION">12770208</idno>
+            <idno type="OCLC">ocm 12770208</idno>
+            <idno type="VID">93644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93644)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memoirs of the most remarkable enterprises and actions of James Duke of York, Albany, and Ulster</title>
+               </titleStmt>
+               <extent>[2], 2, 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:93644:1" rendition="simple:additions"/> MEMOIRS Of the moſt Remarkable ENTERPRISES
+AND ACTIONS OF James Duke of York, <hi>ALBANY</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>LSTER.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Janeway</hi> in
+<hi>Queens-Head-Alley</hi> in <hi>Pater-Noſter-Row.</hi> 1681.</p>
+            <pb facs="tcp:93644:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:93644:2"/>
+            <head>MEMOIRS OF The moſt Remarkable Enterpriſes and Actions OF
+James Duke of York <hi>ALBANY</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>LSTER.</hi>
+            </head>
+            <p>
+               <hi>JAMES</hi> Duke of <hi>YORK,</hi> Brother to our Gracious
+Sovereign <hi>Charles</hi> the Second, King of <hi>England, &amp;c.</hi>
+deſcending from <hi>James</hi> the Sixth, King of <hi>Scotland,</hi> who bore
+an unqueſtionable Title to the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> from <hi>James</hi>
+the Fourth, King of <hi>Scotland,</hi> who mar<g ref="char:EOLhyphen"/>ried <hi>Margaret</hi> Eldeſt
+Daughter of <hi>Henry</hi> the Seventh, King of <hi>England;</hi> by whom he
+had <hi>James</hi> the Fifth, who had one only Child <hi>Mary</hi> Queen of
+<hi>Scots,</hi> who had alſo one only Son <hi>James</hi> the Sixth, who from
+<hi>James</hi> the Fourth had undoubted Right to the Kingdom of
+<hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and from <hi>Margaret</hi> King <hi>Henry</hi> the Sevenths
+Eldeſt Daughter (the Male Line being quite extinct) a certain Title to the
+Crown of <hi>England,</hi> from whoſe Line deſcen<g ref="char:EOLhyphen"/>ded our late Sovereign
+Lord King <hi>Charles</hi> the Firſt, and in the ſame our preſent
+Gracious Sovereign <hi>Charles</hi> the Second (whom God preſerve.) Alſo
+out of the aforeſaid Royal Lines came <hi>James</hi> Duke of <hi>YORK,</hi>
+Brother to our King.</p>
+            <p>Omitting any further Diſcourſe of his Birth or Edu<g ref="char:EOLhyphen"/>cation, we
+proceed to the moſt memorable Occurrences of his Life in his Manhood.</p>
+            <p>In the Time of his Fathers and his Brothers (our Gra<g ref="char:EOLhyphen"/>cious
+<pb n="2" facs="tcp:93644:3"/> Sovereigns) late Troubles, <hi>Anno</hi> 1648. on
+<hi>July</hi> the 27<hi rend="sup">th</hi>, when the Parliament having gotten the Fleet, but
+perceiving their own inſufficiency, rendred themſelves to the Prince,
+<hi>viz.</hi> (our preſent King) then made Cap<g ref="char:EOLhyphen"/>tain General of his Father's
+Forces. The Parliament having ſome inkling thereof, Commiſſioned Colonel
+<hi>Rainsborough</hi> (formerly a Seaman) to the Command thereof; whom the
+Marriners of the Kings Party fairly put on Shore, having poſed him with this
+Queſtion of Engaging for their Sovereign. With this Naval Force the Prince
+departed from <hi>Holland,</hi> and came into <hi>Yarmouth</hi> Road, where it
+was deliberated, whether he ſhould land, and attempt the Relief of
+<hi>Colcheſter;</hi> there were then in Company with him at this adverſe
+Seaſon, his Brother the DUKE of <hi>YORK.</hi>
+            </p>
+            <p>1648. On <hi>Apr.</hi> the 23<hi rend="sup">d</hi> The DUKE of <hi>YORK</hi> (in the
+Time of the late Troubles) being diſguiſed in Womens Apparel, made his
+eſcape from St. <hi>James's</hi> by Water, and landed at <hi>Dort</hi> in
+<hi>Holland,</hi> by the help of one Mr. <hi>Bamfield,</hi> who was purpoſely
+ſent over on that Deſign by the Queen.</p>
+            <p>Alſo <hi>Anno</hi> 1652. In the encounter of <hi>Eſtampes</hi>
+in in <hi>France</hi> the DUKE of <hi>YORK</hi> (then on the Kings ſide) ſo
+valiantly behaved himſelf, that the Marſhal <hi>De Tu<g ref="char:EOLhyphen"/>renne</hi> his
+General, gave a very obliging Character of him, as highly meriting in that
+Service; which procured him ſpecial regard and honour from that Court, and
+all the Grandees of that Nation.</p>
+            <p>
+               <hi>Anno</hi> 1657. The DUKE of <hi>YORK</hi> commanding a part of
+the <hi>Spaniſh</hi> Army, was marching to joyn with other Forces to the
+Relief of <hi>Montmedy</hi> Caſtle in <hi>Lorrain,</hi> beſieged by the
+<hi>French</hi> Marſhal <hi>De Ferte;</hi> while the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi>
+Forces joyned with four Regiments of Horſe, were advancing from
+<hi>Vervins,</hi> part of them, to the number of 300, quartered in a Caſtle
+ſomewhat diſtant from the Bo<g ref="char:EOLhyphen"/>dy, the DUKE with a Brigade attaqued, and
+thereupon they preſently yielded, and took up Arms with him.</p>
+            <p>
+               <pb n="1" facs="tcp:93644:3"/> In the ſame year <hi>Mardike</hi> being taken
+<hi>Septem<g ref="char:EOLhyphen"/>ber</hi> 23th and put into <hi>Engliſh</hi> hands, the taking
+whereof was very grievous to the <hi>Dunkirkers,</hi> and <hi>Spaniſh</hi>
+ſide, and therefore it was reſolved by <hi>Don John</hi> to hazard a
+<hi>Scalado</hi> and aſſault by night: the DUKE of YORK and the Marqueſs
+of <hi>Caracene</hi> ordered and were preſent in the buſineſs; and the
+King our Soveraign, and the Duke of <hi>Gloucester,</hi> had conveyed
+themſelves to <hi>Dunkirk</hi> to ſee the management of this Attempt. On
+the 22d. of <hi>Octob.</hi> at night, ſome 4000 <hi>Engliſh, Scotch</hi>
+and <hi>Iriſh,</hi> and ſome <hi>Spaniards,</hi> about ten a Clock at night
+began the Storm with <hi>Hand Granadoes,</hi> and all ſorts of Aſſaulting
+Engines, and were got into the Trenches, and mounted their Scaling Ladders; but
+the Engliſh within, being in readi<g ref="char:EOLhyphen"/>neſs, and <hi>Reynolds Morgan</hi> and
+<hi>Lillingſtone</hi> being at that ſame time there, the Aſſailants
+were with great Slaughter repelled and beaten down; the great Guns from the
+Engliſh Fleet (Riding at the <hi>Splinter)</hi> Firing their Broad-ſides,
+being directed by four great Links (ſet up in the Corners of the Fort) how to
+miſs it<hi>:</hi> nevertheleſs about four a Clock the Duke commanded the
+Aſſault to be re<g ref="char:EOLhyphen"/>newed again; which was done with greater Fury, but to as
+little Advantage; which Event with the approaching Day-light cauſed a
+Retreat, the dead being moſt of them carried off in Waggons.</p>
+            <p>In the following year 1658 when the <hi>Dunkirk</hi> Fight was
+managed chiefly on the <hi>Spaniſh-ſide,</hi> by the DUKE of YORK
+(accompanied with the Duke of <hi>Glouceſter)</hi> the Military renown
+<pb n="2" facs="tcp:93644:4"/> of whoſe Actions was raiſed in the French Kings Service,
+he did not only maintain the Fight, till the irreſtible daring Gallantry of
+the honour ſeeking Red-Coats made the <hi>Spaniard</hi> abandon his
+Punctilio's, and mend his Retreating Pace, but ſuſtained the Impreſſion
+upon the Flight, and at leaſt ſaved the day.</p>
+            <p>
+               <hi>Anno</hi> 1660 About the time of his Majeſties
+Reſtitution, the King being entertained at the <hi>Hague</hi> in
+<hi>Holland,</hi> and entreated by ſeveral Com<g ref="char:EOLhyphen"/>miſſioners in the Name of
+his Majeſties People, to return and reſume the Scepter and Government. The
+King preparing to depart, before which depar<g ref="char:EOLhyphen"/>ture the <hi>Dutch</hi>
+magnificently treated him, But on Sunday the 20th of <hi>May,</hi> the King
+heard <hi>De Hardy</hi> Preach before him; the place intended was the
+Erench-Church, after their Sermon; but they knowing of it, being greedy to
+ſee the King, would not come out of their Seats; ſo it was done in the
+Princeſſes Lodgings; here the King touched many of the Evil. In the mean
+while the DUKE of <hi>YORK</hi> took the Oath of Allegiance of the Fleet,
+having gone aboard the <hi>Naſeby,</hi> where the General treated him; which
+Ship, at his depar<g ref="char:EOLhyphen"/>ture, he called the <hi>Charles,</hi> as afterwards the
+whole Fleet was new Chriſtened in their way homewards.</p>
+            <p>
+               <hi>Anno</hi> 1662. The Queen ſailing for <hi>England,</hi> but
+through the untowardneſs of the Wind, being protracted of her deſires in
+meeting the King, and her Arrival being in <hi>England</hi> expected every day,
+a fortnight before, cauſed the King to ſend down his Brother the DUKE of
+YORK, Lord high-Admiral, to attend on her upon the Coaſt, and
+<pb n="3" facs="tcp:93644:4"/> to compliment her in his Name: whereupon his Highneſs
+haſted to <hi>Portſmouth,</hi> and on the eleventh of <hi>May</hi> attended
+by the Duke of <hi>Ormond,</hi> the Earl of <hi>Suffolk</hi> and
+<hi>Cheſterfield,</hi> the Lord <hi>Berkley</hi> and o<g ref="char:EOLhyphen"/>ther perſons of
+Honour went aboard the ſtately Yacht, with which the City of
+<hi>Amſterdam</hi> pre<g ref="char:EOLhyphen"/>ſented the King, to Coaſt about the Iſle of
+<hi>Wight</hi> to meet her Majeſty. On the ſame day Sir <hi>Jo<g ref="char:EOLhyphen"/>ſeph
+Douglas</hi> making towards <hi>Portſmouth,</hi> with an Expreſs from her
+Majeſty to the King, was met by his Highneſs the DUKE of YORK, five Leagues
+off the Iſle of <hi>Wight,</hi> who commanded him back with him to the Fleet.
+On <hi>Sunday</hi> Morning about ten a Clock, they diſcovered the Royal
+<hi>James,</hi> but there was ſo great a Calm, that they could not reach the
+Royal <hi>Charles,</hi> till ſix at Evening. No ſooner had the General
+eſpied his Highneſs Yacht, but he went out in his Barge to meet him, the
+Royal Banner being all the while vailed till he was aboard. When his Highneſs
+came into the Ship, the Soldiers gave three ſeveral ſhouts, and all the
+great Guns in the Royal <hi>Charles</hi> (which from that time to the Queens
+entrance had been ſilent) proclaimed his Welcome. After which, ſeveral
+ſhips of the Fleet paid him their ſa<g ref="char:EOLhyphen"/>lutes. Being conducted to her
+Majeſties Cabbin, he was placed in a Chair on her right hand, where after
+ſeveral expreſſions of Joy for her Majeſties happy Arrival on the
+Coaſt of <hi>England,</hi> and having preſented his Majeſties high
+Reſpects to, as excee<g ref="char:EOLhyphen"/>ding Affection to her; his Royal Highneſs took his
+leave, to retire himſelf to his Yacht for that night: and the next morning
+Sir <hi>Joſeph Douglas</hi> was a<g ref="char:EOLhyphen"/>goin diſpatcht to the King, in the
+illuſtrious com<g ref="char:EOLhyphen"/>pany <pb n="4" facs="tcp:93644:5"/> of the ſaid Duke of
+<hi>Ormond,</hi> and the Earls; but was forced to Tide it thence, and
+ſometimes lay at Anchor, and could not reach <hi>Portſmouth</hi> till the
+Evening.</p>
+            <p>
+               <hi>Anno</hi> 1663. At the beginning of <hi>November</hi> the DUKE
+of YORK Lord High-Admiral of <hi>England,</hi> going towards his Charge at
+<hi>Portſmouth,</hi> having received a Gracious farwel from his Maje<g ref="char:EOLhyphen"/>ſty in
+a ſhort while after, he went aboard, and joyned with the Prince
+<hi>Rupert,</hi> and Earl of <hi>Sand<g ref="char:EOLhyphen"/>wich;</hi> ſo that it was no eaſie
+thing to unlock the Narrow Seas.</p>
+            <p>But the Action beween the Engliſh and Dutch Fleets at home being
+but little, the DUKE of YORK finding that the <hi>Netherlands</hi> had laid up
+their Ships, and that there was no need of keeping ſo great a Navy abroad;
+with all his Train on the ſeventh of <hi>September</hi> arrived at
+<hi>White-hall,</hi> leaving a conſiderable number of ſtout Veſ<g ref="char:EOLhyphen"/>ſels,
+under the Conduct of the Earl of <hi>Sandwich</hi> having before his departure,
+by a Speech which he made them, inſpired the Seamen with Reſolu<g ref="char:EOLhyphen"/>tion
+chearfully to obey the commands of their Admiral in whatever Enterprize he
+ſhould have further Order to proſecute.</p>
+            <p>In the ſame and following year, the Hollanders preparations for
+War being open and publick, therefore the King journied from Port to Port, to
+haſten out his Fleet, as alſo by his preſence to to encourage the Seamen,
+that by the 25th of <hi>March</hi> ending the year 1664. The Fleet was
+mag<g ref="char:EOLhyphen"/>nificently prepared, with all neceſſary Proviſion, being ready to
+receive their Admiral the DUKE of YORK, who ſome days before, went very
+<pb n="5" facs="tcp:93644:5"/> early in the Morning to his Charge, attended with divers
+eminent and honourable Voluntiers.</p>
+            <p>
+               <hi>Anno</hi> 1665. In the War with <hi>Holland,</hi> the DUKE of
+YORK impatient of their ſtay, reſolved to give 'um a viſit upon their own
+Coaſts and accordingly with 114 Sail, made for the <hi>Tex<g ref="char:EOLhyphen"/>el,</hi> within
+five Leagues whereof, he came to an Anchor; ſome of the Fleet venturing
+within two Leagues of the Shore, where the DUKE took a full View of the Dutch
+Ships. Some few days after, they ſhewed themſelves juſt before the mouth
+of the Harbour, to the great amazement of the People aſhore. Nor did the
+Engliſh for<g ref="char:EOLhyphen"/>ſake their Stations for a long Seaſon, being now encreaſed
+to 120 Sail, which made the Hollanders erect Beacons all along the Coaſt of
+<hi>Holland,</hi> from the <hi>Texel</hi> to the <hi>Maes,</hi> to give notice
+upon any Attempt of Landing.</p>
+            <p>The DUKE did ſtay longer than he intend<g ref="char:EOLhyphen"/>ed, partly in
+expectation to draw the Dutch to an Engagement; partly by reaſon of croſs
+winds, and harie weather. Among many Fogs, there happened one for the
+Hollanders good: for the DUKE having commanded three Frigats out of his own
+Squadron, and four out of the <hi>White</hi> and <hi>Blew,</hi> to try if they
+could meet with any Holland Merchant men returning toward the <hi>
+                  <g ref="char:V">Ʋ</g>ly</hi>
+the Fog was ſo great, that only the three firſt could Sail. Had not this
+Fog prevented, the whole Fleet had fallen into the hands of the Engliſh,
+however ten Sail were taken, laden with Wine and Brandy; only one
+<hi>Weſt-India-ſhip</hi> of good value, another from <hi>Lisbon,</hi> and
+the laſt Engliſh Veſſel taken by them before in the <hi>Soundings:</hi>
+               <pb n="6" facs="tcp:93644:6"/> there were afterwards at times fourteen or ſixteen more
+taken, and eight or nine run aground: which was the fatal account the
+Hollanders had of their <hi>Burdeaux-Fleet</hi> this year.</p>
+            <p>
+               <hi>Anno</hi> 1672. Then the DUKE returning from the Fleet to
+<hi>London,</hi> put an end to all ex<g ref="char:EOLhyphen"/>pectations of any conſiderable Actions
+at Sea in this aforeſaid year.</p>
+            <p>
+               <hi>Anno</hi> 1673. The DUKE met the Dutcheſs of <hi>Modena</hi>
+about the latter end of <hi>November</hi> in that year (the arriving at
+<hi>Dover</hi> in order to her intermarriage with his Highneſs) and ſome
+few days after coming from <hi>Graveſend</hi> to <hi>London,</hi> by water,
+was by his Majeſty and divers of the No<g ref="char:EOLhyphen"/>bility met in Barges upon the River,
+and ſo con<g ref="char:EOLhyphen"/>ducted to <hi>White-Hall,</hi> where, after her Royal Highneſs
+had been received in the moſt obliging and kind manner by her Majeſty,
+ſhe was Con<g ref="char:EOLhyphen"/>ducted to St. <hi>James</hi>'s, within few days after their Royal
+Highneſſes gave Audience to the <hi>French, Portugal, Swediſh</hi> and
+<hi>Daniſh</hi> Embaſſadors, as likewiſe to the Reſidents of
+<hi>Venice</hi> and <hi>Newburg,</hi> who all went to Compliment them upon
+their late Marriage.</p>
+            <p>Since the Diſcovery of the Popiſh-Plot his Highneſs hath
+reſided much in <hi>Scotland.</hi>
+            </p>
+            <p>Further,</p>
+            <p>
+               <hi>Fitz-Harris</hi> going to take his leave of Father
+<hi>Gough</hi> an <hi>Engliſh-Prieſt,</hi> at <hi>Paris,</hi> the ſaid
+<hi>Gough</hi> affirming in Diſcourſe, that the DUKE of YORK was a
+Catholick, <hi>Fitz Harris</hi> requi<g ref="char:EOLhyphen"/>ring of him how long the DUKE had been a
+Catholick, he Anſwered the Queen-Mother had made him ſo.</p>
+            <p>
+               <pb n="7" facs="tcp:93644:6"/> Mr. <hi>Dugdale</hi> in his Information given
+before the Houſe of Commons relateth that one <hi>Francis Evers</hi> a
+Jeſuite, telling him it might not be long before they might expect good
+times, for that the DUKE of YORK having declared himſelf a Roman-Catholick,
+had given a good aſſurance to the Pope, beſides being a Prince of that
+Re<g ref="char:EOLhyphen"/>ſolution, <hi>&amp;c.</hi> that if ever he made any engage<g ref="char:EOLhyphen"/>ment, he would
+never revoke it, which gave them great hopes of diſperſing the dark Clouds
+of He<g ref="char:EOLhyphen"/>reſy (as by them called) He not only having en<g ref="char:EOLhyphen"/>gaged himſelf
+ſolemnly to them for the eſtabliſh<g ref="char:EOLhyphen"/>ing of their Religion, but alſo that
+he would re<g ref="char:EOLhyphen"/>ſtore them to all their Church-Lands, and other priviledges taken
+from their Church formerly. But from ſeveral private Gentlemen, as well as
+Prieſts, he gives an account, that he heard it deba<g ref="char:EOLhyphen"/>ted at ſeveral of their
+private Meetings, what the DUKE of YORKS pleaſure was, that as he had given
+them an aſſurance of his part, they ſhould not be negligent to do theirs,
+and that they ſhould be in all readineſs, with all neceſſaries when the
+King ſhould dye, to aſſiſt him againſt the Prote<g ref="char:EOLhyphen"/>ſtants.</p>
+            <p>Again, the aforeſaid perſon relateth, that he being in Company
+with Mr. <hi>Evers,</hi> preſſed of him to know the Reaſon why they
+ſhould kill Sir <hi>Ed<g ref="char:EOLhyphen"/>mundbury Godfrey?</hi> Mr. <hi>Evers</hi> told him,
+that the DUKE of YORK had ſent a Meſſage to <hi>Coleman,</hi> after he
+was taken, that he ſhould not Confeſs any thing, he returned the DUKE an
+Anſwer back, that it had been his misfortune, to declare all that he knew of
+the matter to Sir <hi>Ed<g ref="char:EOLhyphen"/>mundbury Godfrey,</hi> and he heard that Sir
+<hi>Edmund<g ref="char:EOLhyphen"/>bury</hi> 
+               <pb n="8" facs="tcp:93644:7"/> 
+               <hi>Godfrey</hi> would come in a
+Witneſs againſt him, in regard he had been ſo diligent in taking
+Examinations: The DUKE returned him An<g ref="char:EOLhyphen"/>ſwer back again, that bid him be
+ſure not to con<g ref="char:EOLhyphen"/>feſs, and he ſhould not need to fear Sir <hi>Edmund
+Bury-Godfrey,</hi> and that there ſhould be care taken, or ſomewhat to that
+purpoſe.</p>
+            <p>Alſo Mr. <hi>Dangerfield</hi> gives Account, that about the
+Months of <hi>September</hi> or of <hi>October</hi> 1679. That Mrs.
+<hi>Cellier</hi> and himſelf then waiting of the Lord <hi>Peterborough,</hi>
+to be introduced to the DUKE of YORK, after ſome Diſcourſe, his
+Lordſhip took them into the DUKES Cloſet (at <hi>White-Hall)</hi> where
+having kiſſed the DUKES hand, Mr. <hi>Dangerfield</hi> gave his
+Royal-Highneſs a little Book, containing a Scheme, and the pre<g ref="char:EOLhyphen"/>tended
+Diſcovery he had made in the <hi>Presbyterian</hi> Plot, which the Duke after
+ſome ſhort peruſal of, thanked him for: and alſo for his diligence in
+the Catholick Cauſe: deſired him to go on, and wiſh<g ref="char:EOLhyphen"/>ed him good
+ſucceſs in all his undertakings: ad<g ref="char:EOLhyphen"/>ding in theſe words, <hi>viz.</hi>
+That the Presbyterian Plot was a thing of moſt weighty Conſequence; and if
+well managed, would be conducible to the ſafety of the Catholick
+Cauſe<hi>:</hi> not queſtioning but the effects of it would Anſwer their
+expecta<g ref="char:EOLhyphen"/>tions, eſpecially in the Northern parts. where I am well aſſured
+the Major part of the Gentry are his friends, and have given ſufficient
+Demonſtrati<g ref="char:EOLhyphen"/>on of their Affections to him, likewiſe of their intents to
+proſecute the Presbyterian Plot to the utmoſt. After this his Highneſs
+ordered that Mr. <hi>Dangerfield</hi> and Mrs. <hi>Cellier</hi> to be careful
+of what they communicated to the perſons who were <pb n="9" facs="tcp:93644:7"/> to be
+Witneſſes in the New Plot, leſt they ſhould be caught in the
+ſubornation and thereby bring a terrible Odium upon the Catholicks, and ſo
+they be made uncapable of any further Service. After this, the Duke informed
+them, that in a Month or two's time the Commiſſions would be ready; but
+ordered them in the mean time to bring their parts to bear with the
+Commiſſions, and particu<g ref="char:EOLhyphen"/>larly ordered Mr. <hi>Dangerfield</hi> to find out
+ſome perſons, which were fit to be truſted, and that ſhould accept of
+ſuch Commiſſions which ſhould be delivered by a perſon appointed for
+that pur<g ref="char:EOLhyphen"/>poſe, but not to be known to them to be any o<g ref="char:EOLhyphen"/>ther but a
+Presbyterian: So that when occaſion ſhould require, they might, together
+with thoſe which Mr. <hi>Dangerfield</hi> Mrs. <hi>Cellier, &amp;c.</hi> had
+then, be ready to ſwear in the Plot, and that the Pres<g ref="char:EOLhyphen"/>byterians were
+raiſing Forces againſt the King and Government, and had given out
+Commiſſions to that purpoſe. And in Order to this, Mr.
+<hi>Danger<g ref="char:EOLhyphen"/>field</hi> in ſome ſhort time after procured ſeveral to accept
+of ſuch Commiſſions, when they ſhould be ready; whoſe buſineſs in
+the mean time was, to ſpread Reports in the Coffee-houſes, that the
+Po<g ref="char:EOLhyphen"/>piſh-Plot was a contrivance of the Presbyterians.</p>
+            <p>For their encouragement in the proſecution of that Sham-Plot,
+the DUKE promiſed, that he would take care that money ſhould not be
+wanting; but ordered them to uſe all the ex<g ref="char:EOLhyphen"/>pedition the thing would allow to
+make a Diſco<g ref="char:EOLhyphen"/>very thereof to the King. After which, the Duke ſaid, The
+Catholick party would be eaſed of the Charge in regard it would be defrayed
+ſome other way.</p>
+            <p>
+               <pb n="10" facs="tcp:93644:8"/> The DUKE then made divers Vows and bitter
+Execrations to ſtand by them in the thing, and engaged on his honour to be
+their Rewarder. Adding, that ſuch conſiderable Hereſies were not to be
+ſlighted: further promiſing, that to whoſe Lot ſoever it ſhould
+happen to be impriſoned, ac<g ref="char:EOLhyphen"/>cording to their fidelity and ſtedfaſtneſs
+in the Cauſe, ſo much the more ſhould their Reward be augmented: and that
+all care poſſible ſhould be uſed to ſupport and preſerve them: and
+particu<g ref="char:EOLhyphen"/>larly, deſiring Mr. <hi>Dangerfield</hi> to keep up to the couragious
+and active Character which his High<g ref="char:EOLhyphen"/>neſs had heard of him. All which Mr.
+<hi>Danger<g ref="char:EOLhyphen"/>field</hi> promiſed to do.</p>
+            <p>Mr. <hi>Dangerfield</hi> ſome time after went to wait on the
+Lord <hi>Peterborough,</hi> from the Lady <hi>Powis,</hi> to the end that he
+might move the DUKE to get him with all expedition to the King<hi>:</hi> he
+then being ready.</p>
+            <p>About four days after this, my Lord <hi>Peter<g ref="char:EOLhyphen"/>borough</hi>
+ſending for Mr. <hi>Dangerfield,</hi> and took him to the DUKE again (who was
+then in his Cloſſet at <hi>White-Hall)</hi> and the DUKE told Mr.
+<hi>Dangerfield,</hi> that he muſt prepare him<g ref="char:EOLhyphen"/>ſelf to wait on the King, to
+give his Majeſty a more particular Account of the Presbyteri<g ref="char:EOLhyphen"/>an Plot than
+what the little Book made men<g ref="char:EOLhyphen"/>tion of, (which Book the DUKE ſaid he had given
+to the King) And that he had ſo ordered the matter, that Mr.
+<hi>Dangerfield</hi> ſhould <pb n="11" facs="tcp:93644:8"/> be furniſhed with money, to
+enable him in the proſecution thereof. But his Highneſs charg<g ref="char:EOLhyphen"/>ed him to
+conſider well his Story, before he waited on the King.</p>
+            <p>Then the Duke told him, that by his dili<g ref="char:EOLhyphen"/>gence, he had gained a
+good Reputation a<g ref="char:EOLhyphen"/>mong the Catholicks, and that he ſhould by his Service to
+that Cauſe, highly merrit: Adding, that in a ſhort time, he ſhould ſee
+the Catholick Religion flouriſh in theſe Kingdoms, and He<g ref="char:EOLhyphen"/>reſie torn up
+by the Roots, and that he had heard of the Propoſal which had been made him
+by the Lords <hi>Powis and Arundel,</hi> about taking off the King, and about
+his Refuſal; as alſo, what he had accepted, touching my Lord
+<hi>Shaftsbury,</hi> and of all his Tranſactions in the Presbyterian Plot:
+ſaying in theſe very words, <hi>viz.</hi> If you value the Religion you
+profeſs, and my Intereſt (as you ſay you do) and your own future
+Happineſs, take my Ad<g ref="char:EOLhyphen"/>vice, and depend upon my Honour and Inte<g ref="char:EOLhyphen"/>reſt for
+your Advancement.</p>
+            <p>For, Sir, you look like a Man of Courage and Wit: therefore leſs
+Diſcourſe may ſerve with you than another. So that if you will but move
+by the Meaſures that I will give you, you ſhall not only eſcape with
+ſafety, but be rewarded according to the greatneſs of your Actions.</p>
+            <p>
+               <pb n="12" facs="tcp:93644:9"/> To which Mr. <hi>Dangerfield</hi> Replied,
+that he would ſtand and fall in defence of the Roman Ca<g ref="char:EOLhyphen"/>tholick Religion, and
+his Highneſs Service; adding that he was not a little concerned for his
+refuſing to kill the King, by whom he was well ſatisfied by his Ghoſtly
+Father, ſtood Condemned as an He<g ref="char:EOLhyphen"/>retick. But this he did offer, that if his
+Highneſs would command him to the Attempt, he would not fail, either to
+accompliſh it or to looſe his Life.</p>
+            <p>Upon which the DUKE gave him twenty Guinnies, and ſaid, that if
+he would be rigorous in what he had already undertaken, he would ſo or<g ref="char:EOLhyphen"/>der
+it, that his Life ſhould not be in the leaſt dan<g ref="char:EOLhyphen"/>ger<hi>:</hi> adding, we
+are not to have men taken in ſuch daring Actions, but to have them make an
+effectu<g ref="char:EOLhyphen"/>al diſpatch, and be gon; ſome time after this, when Mr.
+<hi>Dangerfield</hi> was ready to convey the Letters into Collonel
+<hi>Manſels</hi> Chamber, he went to the Lord <hi>Peterborough</hi> who
+brought him to the DUKE, whom Mr. <hi>Dangerfield</hi> told, that he was ready
+to fix the Letters in Collonel <hi>Manſels</hi> Chamber, to which his
+Highneſs anſwered that he muſt make haſte, that he might be impowered
+to make a General ſearch of the like Nature, for ſaid the DUKE, ſince I
+ſaw you laſt, the La<g ref="char:EOLhyphen"/>dy <hi>Powis</hi> hath informed me, that there are
+abun<g ref="char:EOLhyphen"/>dance of Letters and Witneſſes Ready, ſo that it is now high time to
+begin.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
